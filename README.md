@@ -2,6 +2,9 @@
 
 Official PyTorch implementation of DRFDFF: Dynamic Receptive Fields with Dynamic Feature Fusion for LiDAR-Based 3D Pedestrian Detection and Tracking.
 
+### [https://www.youtube.com/watch?v=Kj0MAv6c1zA](https://www.youtube.com/watch?v=Kj0MAv6c1zA)
+
+
 [![](images/videos.jpg)](https://youtu.be/Kj0MAv6c1zA "")
 
 ## Experimental Results
